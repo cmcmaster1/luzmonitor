@@ -1,13 +1,13 @@
 Package: luzmonitor
-Title: What the Package Does (One Line, Title Case)
+Title: Luz callbacks for experiment monitoring.
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Christopher",
+           family = "McMaster",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "christopher.mcmaster@austin.org.au",
+           comment = c(ORCID = "0000-0003-2432-5451"))
+Description: Callbacks for monitoring experiments in popular experiment monitoring software.
 License: MIT + file LICENSE
 Suggests: 
     mlflow,
